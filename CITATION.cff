@@ -1,6 +1,12 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-authors: Smith M.L., Vanderpool D., and Hahn M.W.
+authors:
+- family-names: "Smith"
+  given-names: "M.L."
+- family-names: "Vanderpool"
+  given-names: "D."
+- family-names: "Hahn"
+  given-names: "M.W."
 title: "Scripts from Using all gene families vastly expands data available for phylogenomic inference"
 version: 1.0.0
 identifiers:
